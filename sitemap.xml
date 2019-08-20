@@ -79,7 +79,10 @@
   
   <url>
     <loc>https://congxiaodan.cn/contact/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://congxiaodan.cn/contact/bak/</loc>
   </url>
   
   <url>
