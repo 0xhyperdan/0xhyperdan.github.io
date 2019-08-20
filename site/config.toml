@@ -46,7 +46,7 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "未来不完美"
     # Sets navbarTitle to match the section of the website
     dynamicTitles       = true
     searchMenu          = true
@@ -57,7 +57,7 @@ disableLanguages        = [""]
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
     header                = "Xiaodan.Cong"
-    paragraph             = "🙃"
+    paragraph             = "🤔Xiaodn.©️™️ 🏡⛅️"
     rssIntro              = true
     socialIntro           = true
 
