@@ -1,0 +1,4 @@
+[submodule "site/public"]
+	path = site/public
+	url = git@github.com:C-isCoder/C-isCoder.github.io.git
+	branch = master
